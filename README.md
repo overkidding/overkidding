@@ -14,7 +14,7 @@
 For those who don't know me, I'm a Java and a C# student.. I love to interact with people, and I'm a pretty chill guy in general
 
 - 🌍 I'm currently working on a Minecraft network called **[EdenMine](https://github.com/EdenMine)**
-- 📕 I'm currently studying **SpringBoot** and **Bukkit API**
+- 📕 I'm currently studying **SpringBoot**, **C#**, **C**, **C++** and **Bukkit API**
 - 🐵 I hate monkeys
 - ❤ Black is my favourite color
 

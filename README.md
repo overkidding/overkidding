@@ -23,6 +23,8 @@ For those who don't know me, I'm a Java and a C# student.. I love to interact wi
 <!--- GitHub Stats --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=overkidding&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **overkidding/overkidding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

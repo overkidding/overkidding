@@ -14,14 +14,14 @@
 For those who don't know me, I'm a Java and a C# student.. I love to interact with people, and I'm a pretty chill guy in general
 
 - 🌍 I'm currently working on a Minecraft network called **[EdenMine](https://github.com/EdenMine)**
-- 📕 I'm currently studying **SpringBoot**, **C#**, **C**, **C++** and **Bukkit API**
+- 📕 I'm currently studying **Java**, **SpringBoot**, **C#**, **C**, **C++** and **Bukkit API**
 - 🐵 I hate monkeys
-- ❤ Black is my favourite color
+- ❤ Blue is my favourite color
 
 <br />
 
 <!--- GitHub Stats --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=overkidding&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/overkidding)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=overkidding&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/overkidding)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overkidding&layout=compact)](https://github.com/overkidding)
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi there, Welcome to my GitHub!
   <p align="center">
-    <a href="https://t.me/overkidding">
+    <a href="https://t.me/ViaVersion">
       <img width="25px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png"/>
     </a>
     <!--<a href="https://discordapp.com/users/461610631867400212">
